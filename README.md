@@ -16,10 +16,10 @@ To run the simulation, follow these steps:
 ```bash
 pip install numpy matplotlib seaborn
 ```
-4. Run the script `voter_model_simulation.py`:
+4. Run the script `voter_model.py`:
 
 ```bash
-python voter_model_simulation.py
+python voter_model.py
 ```
 
 ## Code Structure
